@@ -1,0 +1,119 @@
+[
+	{	
+		"id": 0,
+		"image":"./assets/images/camisa_fit.jpg",
+		"name":"Slim Fit Shirt",
+		"gender":"Male",
+		"material":"Silk",
+		"color":"Blue",
+		"price":10
+	},
+	{
+		"id": 1,
+		"image":"./assets/images/camisa_floral.jpg",
+		"name":"Floral Shirt",
+		"gender":"Male",
+		"material":"Silk",
+		"color":"White",
+		"price":20
+	},	
+	{
+		"id": 2,
+		"image":"./assets/images/calça_warrior.jpg",
+		"name":"Skinny Jeans",
+		"gender":"Male",
+		"material":"Cotton",
+		"color":"Black",
+		"price":15
+	},
+	{
+		"id": 3,
+		"image":"./assets/images/calça_caiena.jpg",
+		"name":"Cayenne Jeans",
+		"gender":"Male",
+		"material":"Cotton",
+		"color":"Blue",
+		"price":12
+	},
+	{
+		"id": 4,
+		"image":"./assets/images/calça_destroyed2.jpg",
+		"name":"Ripped Skinny Jeans",
+		"gender":"Male",
+		"material":"Cotton",
+		"color":"Blue",
+		"price":14
+	},
+	{
+		"id": 5,
+		"image":"./assets/images/camisa_polo.jpg",
+		"name":"Polo Shirt",
+		"gender":"Male",
+		"material":"Cotton",
+		"color":"Black",
+		"price":15
+	},
+	{
+		"id": 6,
+		"image":"./assets/images/vestido_munich.jpg",
+		"name":"Munich Shirt Dress",
+		"gender":"Female",
+		"material":"Cotton",
+		"color":"Beige",
+		"price":16
+	},
+	{
+		"id": 7,
+		"image":"./assets/images/camisa_classic.jpg",
+		"name":"Classic Polo",
+		"gender":"Female",
+		"material":"Cotton",
+		"color":"Black",
+		"price":17
+	},
+	{
+		"id": 8,
+		"image":"./assets/images/calça_skinny.jpg",
+		"name":"Skinny Jeans",
+		"gender":"Female",
+		"material":"Cotton",
+		"color":"Black",
+		"price":20
+	},
+	{
+		"id": 9,
+		"image":"./assets/images/calça_band.jpg",
+		"name":"Slide Band Pants",
+		"gender":"Male",
+		"material":"Silk",
+		"color":"Black",
+		"price":30
+	},
+	{
+		"id": 10,
+		"image":"./assets/images/camisa_royal.jpg",
+		"name":"Royal Polo",
+		"gender":"Male",
+		"material":"Cotton",
+		"color":"Blue",
+		"price":25
+	},
+	{
+		"id": 11,
+		"image":"./assets/images/camiseta_alkary.jpg",
+		"name":"Alkary Sleeve T-shirt",
+		"gender":"Male",
+		"material":"Cotton",
+		"color":"White",
+		"price":22
+	},
+	{
+		"id": 12,
+		"image":"./assets/images/camisa_xadrez.jpg",
+		"name":"Long Sleeve Shirt",
+		"gender":"Female",
+		"material":"Cotton",
+		"color":"White",
+		"price":21
+	}
+]
